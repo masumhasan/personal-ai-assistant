@@ -5,7 +5,6 @@ venv/
 livekit
 
 # Environment variables
-.env
 
 # Python
 __pycache__/
@@ -78,7 +77,6 @@ celerybeat.pid
 *.sage.py
 
 # Environments
-.env
 .venv
 env/
 venv/
@@ -103,3 +101,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
